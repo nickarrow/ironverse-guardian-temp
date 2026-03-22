@@ -40,6 +40,11 @@ files:
     created: '2025-12-31T04:59:31.082903+00:00'
     modified: '2026-02-08T00:22:49.408772+00:00'
     owner: nickarrow
+  Starforged Root/Barille Black/Truths.md:
+    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    created: '2026-03-22T21:33:33.496204+00:00'
+    modified: '2026-03-22T21:33:33.496204+00:00'
+    owner: jzoutis
   The Starforged.md:
     checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     created: '2026-02-07T03:18:07.292864+00:00'
@@ -69,6 +74,11 @@ files:
     checksum: 346e62b12f6be04cb24fc8398806b1a38eaf5690edadf0eabcf524d6879edc7a
     created: '2026-02-18T01:42:29.846954+00:00'
     modified: '2026-02-18T01:42:29.846954+00:00'
+    owner: jzoutis
+  The Starforged/Campaign Alex 'The Ogre' Bai/Journals/Session 1.md:
+    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    created: '2026-03-22T21:33:33.496303+00:00'
+    modified: '2026-03-22T21:33:33.496303+00:00'
     owner: jzoutis
   The Starforged/Campaign Alex 'The Ogre' Bai/Progress/Alex/Remove the symbiote and return home.md:
     checksum: 8ddeef60f7298bc92ea683540352bb5aee801188d89d27284a7a770542e71647
@@ -1098,9 +1108,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   Untitled.base:
-    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    checksum: 07bb42152a9f7290a4aa0940c11fffb8618248c567adbde6b1647f84312361ff
     created: '2026-02-18T01:42:29.847089+00:00'
-    modified: '2026-02-18T01:42:29.847089+00:00'
+    modified: '2026-03-22T21:33:33.496347+00:00'
     owner: jzoutis
   Untitled.md:
     checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
@@ -1134,6 +1144,9 @@ folders:
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
+  Starforged Root:
+    created: '2026-03-22T21:33:33.496095+00:00'
+    structural_owner: jzoutis
   The Starforged:
     created: '2026-01-09T03:44:17.263114+00:00'
     structural_owner: nickarrow
