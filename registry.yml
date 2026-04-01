@@ -613,9 +613,9 @@ files:
     modified: '2026-02-21T21:01:20.564701+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Characters/Sable Rowe/Sable Rowe.md:
-    checksum: 1f105c542f014cbcb10953f495ca0fc11a0f8b82bb73b02c088a73ecc464e1e2
+    checksum: af63f417bf71c233442dca5e61bf120963575000d8da73d99157402136c3dbbf
     created: '2026-01-29T03:01:32.679818+00:00'
-    modified: '2026-02-14T02:11:29.809418+00:00'
+    modified: '2026-04-01T21:35:18.627414+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Clocks/Sable/The Electrical Storm Overtakes the Port.md:
     checksum: 7354982fddcb192563f31836a6c07077e237582366f9d950d9b6ca8f54285da7
@@ -637,10 +637,15 @@ files:
     created: '2026-01-30T00:11:24.931595+00:00'
     modified: '2026-02-09T21:01:58.267718+00:00'
     owner: fragile-entropy
+  The Starforged/Campaign Sable Rowe/Journals/Sable 03 -.md:
+    checksum: ac4e6e6b3c14d6d716a4892f7dca12250176729d84238a23624faad90cb7debd
+    created: '2026-04-01T21:35:18.627580+00:00'
+    modified: '2026-04-01T21:35:18.627580+00:00'
+    owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Find Someone to Check Her Ship.md:
-    checksum: 3fa590e43d5154c1b4ef555ff5f9859f3a38e209a65ead835299d0c383f9f2ec
+    checksum: aeee3a39ea575b33b333829ce091905cd9dee2f843e38fb8cf845999a7fa12f9
     created: '2026-02-11T02:47:43.789542+00:00'
-    modified: '2026-02-13T00:56:00.565138+00:00'
+    modified: '2026-04-01T21:35:18.627659+00:00'
     owner: fragile-entropy
   The Starforged/Campaign Sable Rowe/Progress/Find the Branta Pod.md:
     checksum: aafbce1fbd4c1df3d67238493e2618682c692f67145edec38e58bbeb354bc63d
