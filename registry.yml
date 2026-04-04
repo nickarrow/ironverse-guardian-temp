@@ -45,6 +45,26 @@ files:
     created: '2026-03-22T21:33:33.496204+00:00'
     modified: '2026-03-22T21:33:33.496204+00:00'
     owner: jzoutis
+  The Daggerforged/Campaign Grunrigg Silverkeeper/Characters/Grunrigg Silverkeeper.md:
+    checksum: 4a0879a46472804fd2f38edb7ce9a169af88253cd525c50071d0315b6663940f
+    created: '2026-04-04T19:26:17.682626+00:00'
+    modified: '2026-04-04T19:26:17.682626+00:00'
+    owner: nickarrow
+  The Daggerforged/Campaign Grunrigg Silverkeeper/Journals/Session 0.md:
+    checksum: a94c1bdf23bceb9bb6be78dbabf4027776f3ecad3068eb319d20063bdcb90876
+    created: '2026-04-04T19:26:17.682738+00:00'
+    modified: '2026-04-04T19:26:17.682738+00:00'
+    owner: nickarrow
+  The Daggerforged/The Daggerforged.md:
+    checksum: 1e0966d39c9cf3096a1e57b0feedc446aef6ff6a3b881db866c328012ff008d6
+    created: '2026-04-04T19:26:17.682802+00:00'
+    modified: '2026-04-04T19:26:17.682802+00:00'
+    owner: nickarrow
+  The Daggerforged/Truths.md:
+    checksum: b830b8102fbb59f39ee38dafa0aa7313211707768429fe921ecb5d0e1459301c
+    created: '2026-04-04T19:26:17.682857+00:00'
+    modified: '2026-04-04T19:26:17.682857+00:00'
+    owner: nickarrow
   The Starforged.md:
     checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     created: '2026-02-07T03:18:07.292864+00:00'
@@ -283,9 +303,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 03 - Searching Through Reck.md:
-    checksum: f73c1253ae8c1593e34e407aab20a58a21b9230f1666686e4957899cdc60f8dd
+    checksum: be265a88b49b2b4f547d64d2701cb4d6a80032d2a4dc7e51c6f2031f19c7aef9
     created: '2026-02-07T22:15:39.913915+00:00'
-    modified: '2026-04-02T03:13:47.179674+00:00'
+    modified: '2026-04-04T19:26:17.682903+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: e3d270d8e4fe2b8568fdbdc504b5c1f581a5035f14bc9158f6b5f4068feeb1a5
@@ -1152,6 +1172,9 @@ folders:
   Starforged Root:
     created: '2026-03-22T21:33:33.496095+00:00'
     structural_owner: jzoutis
+  The Daggerforged:
+    created: '2026-04-04T19:26:17.682487+00:00'
+    structural_owner: nickarrow
   The Starforged:
     created: '2026-01-09T03:44:17.263114+00:00'
     structural_owner: nickarrow
