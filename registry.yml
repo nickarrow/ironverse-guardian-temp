@@ -25,6 +25,11 @@ files:
     created: '2025-12-17T17:41:15.770317+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  Homebrew/Daggerforged/daggerforged.yaml:
+    checksum: 85fa838296dc9e502f8828a22a6e866ef72d1c75f0817f5fe7a876a7f92b81fb
+    created: '2026-04-05T06:11:00.706655+00:00'
+    modified: '2026-04-05T06:11:00.706655+00:00'
+    owner: nickarrow
   Ironverse Changelog Base.base:
     checksum: 29c56365d2a319354da4c04f81a8654f448fb11fe9fa608665f96b91dfb61760
     created: '2026-02-08T00:21:37.373636+00:00'
@@ -45,6 +50,26 @@ files:
     created: '2026-03-22T21:33:33.496204+00:00'
     modified: '2026-03-22T21:33:33.496204+00:00'
     owner: jzoutis
+  The Daggerforged/Campaign Bob Frog/Campaign Bob Frog.md:
+    checksum: 3edb7ddc2383c20db72dbf35cc369704e2ec7aaa4a47070e180e05804cb2d65c
+    created: '2026-04-05T06:11:00.706762+00:00'
+    modified: '2026-04-05T06:11:00.706762+00:00'
+    owner: nickarrow
+  The Daggerforged/Campaign Bob Frog/Characters/Bob Frog.md:
+    checksum: 5dc1eb5ca817e4c99988ae40e6ed653ca79823484bdfc5604bc04836c29b3489
+    created: '2026-04-05T06:11:00.706852+00:00'
+    modified: '2026-04-05T06:11:00.706852+00:00'
+    owner: nickarrow
+  The Daggerforged/Campaign Bob Frog/Journals/Session 0.md:
+    checksum: a94c1bdf23bceb9bb6be78dbabf4027776f3ecad3068eb319d20063bdcb90876
+    created: '2026-04-05T06:11:00.706929+00:00'
+    modified: '2026-04-05T06:11:00.706929+00:00'
+    owner: nickarrow
+  The Daggerforged/Truths.md:
+    checksum: b8d12f225891a55106d445eff1308f91266c129eae6aff0bfa641413a52dde67
+    created: '2026-04-05T06:11:00.706972+00:00'
+    modified: '2026-04-05T06:11:00.706972+00:00'
+    owner: nickarrow
   The Starforged.md:
     checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     created: '2026-02-07T03:18:07.292864+00:00'
@@ -1127,21 +1152,6 @@ files:
     created: '2026-01-06T21:34:41.219346+00:00'
     modified: '2026-03-30T01:23:42.141007+00:00'
     owner: nickarrow
-  main.js:
-    checksum: 99b09c17aff440457ff52f89e748cd3d18c2d0b7b645ed8a333a12332fbdde61
-    created: '2026-01-09T06:31:01.267156+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
-    owner: nickarrow
-  manifest.json:
-    checksum: 9128e1f1f93b8402c45b59ebb195bf14ae37d2ac9473625418d9791dc2479fc6
-    created: '2026-01-09T06:31:01.267270+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
-    owner: nickarrow
-  styles.css:
-    checksum: 32865e6d1f45ab297fd90af00d40ea7a05bb0dbf57554d636fd61e89e97ff313
-    created: '2026-01-09T06:31:01.267397+00:00'
-    modified: '2026-02-07T22:21:52.606000+00:00'
-    owner: nickarrow
 folders:
   '"The Starforged':
     created: '2026-02-14T02:30:17.051146+00:00'
@@ -1149,9 +1159,15 @@ folders:
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
+  Homebrew:
+    created: '2026-04-05T06:11:00.706585+00:00'
+    structural_owner: nickarrow
   Starforged Root:
     created: '2026-03-22T21:33:33.496095+00:00'
     structural_owner: jzoutis
+  The Daggerforged:
+    created: '2026-04-05T06:11:00.706714+00:00'
+    structural_owner: nickarrow
   The Starforged:
     created: '2026-01-09T03:44:17.263114+00:00'
     structural_owner: nickarrow
