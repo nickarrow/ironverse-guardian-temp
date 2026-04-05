@@ -26,9 +26,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   Homebrew/Daggerforged/daggerforged.yaml:
-    checksum: 85fa838296dc9e502f8828a22a6e866ef72d1c75f0817f5fe7a876a7f92b81fb
+    checksum: eacfcf7e1324898edf121060c2711a6513f1e52616b178f5589cce1bcd37d81f
     created: '2026-04-05T06:11:00.706655+00:00'
-    modified: '2026-04-05T06:11:00.706655+00:00'
+    modified: '2026-04-05T06:58:10.290369+00:00'
     owner: nickarrow
   Ironverse Changelog Base.base:
     checksum: 29c56365d2a319354da4c04f81a8654f448fb11fe9fa608665f96b91dfb61760
@@ -56,9 +56,9 @@ files:
     modified: '2026-04-05T06:11:00.706762+00:00'
     owner: nickarrow
   The Daggerforged/Campaign Bob Frog/Characters/Bob Frog.md:
-    checksum: 5dc1eb5ca817e4c99988ae40e6ed653ca79823484bdfc5604bc04836c29b3489
+    checksum: 19063da812bd0faea2a8f0698b3272505c9cf82b7c64d4527fc5d0fa24227667
     created: '2026-04-05T06:11:00.706852+00:00'
-    modified: '2026-04-05T06:11:00.706852+00:00'
+    modified: '2026-04-05T06:58:10.290416+00:00'
     owner: nickarrow
   The Daggerforged/Campaign Bob Frog/Journals/Session 0.md:
     checksum: a94c1bdf23bceb9bb6be78dbabf4027776f3ecad3068eb319d20063bdcb90876
