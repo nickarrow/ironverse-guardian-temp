@@ -293,9 +293,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black.md:
-    checksum: 4e1944b687a3e8c3e7b4878336a45bf9d1763100b29084bb0ea19164727c376e
+    checksum: 4ba41e1cdc048794d527cdced5cc33ae0dd09912dc93edcd5fc928aeefb6cd1d
     created: '2025-12-17T19:59:34.705988+00:00'
-    modified: '2026-04-11T19:47:01.150190+00:00'
+    modified: '2026-04-11T20:01:29.636303+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Characters/Barille Black/attachments/barille black profile.png:
     checksum: 283585c27eb05c9acdcc972e3aa9c21afa873a62f1bf4710905332bd34f1a746
@@ -318,9 +318,9 @@ files:
     modified: '2026-04-11T19:23:47.532781+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 04 - Name TBD.md:
-    checksum: d6eec3bf3edba56fc8b41b5dbc28101fe5706576c6c4931908248712e661e9e7
+    checksum: 9f04dbcba457e7b30dee49a6707e6251a26cf043dfc740c7066c3536cec6e548
     created: '2026-04-11T19:23:47.532864+00:00'
-    modified: '2026-04-11T19:47:01.150315+00:00'
+    modified: '2026-04-11T20:01:29.636360+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: e3d270d8e4fe2b8568fdbdc504b5c1f581a5035f14bc9158f6b5f4068feeb1a5
@@ -336,6 +336,11 @@ files:
     checksum: e4a5455ba6bf2aa381e03eaf95fbbb79c1926054f98a971dcc743bcf72898fe8
     created: '2025-12-17T20:28:29.566496+00:00'
     modified: '2026-04-11T19:23:47.532901+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/Progress/Barille/Save Hollodo from the entity.md:
+    checksum: 8bfc8f5241926e0ed3499959457367fbd237cc316d9715dc2eb4053589e66752
+    created: '2026-04-11T20:01:29.636504+00:00'
+    modified: '2026-04-11T20:01:29.636504+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Progress/Barille/Track the other-world entity to its source.md:
     checksum: 3cf6ef414c393e33df4d4622dc22862b08d7224bd2097b7a70faac5b36243213
