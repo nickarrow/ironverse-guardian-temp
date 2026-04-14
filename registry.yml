@@ -25,11 +25,6 @@ files:
     created: '2025-12-17T17:41:15.770317+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
-  Homebrew/Daggerforged/daggerforged.yaml:
-    checksum: eacfcf7e1324898edf121060c2711a6513f1e52616b178f5589cce1bcd37d81f
-    created: '2026-04-05T06:11:00.706655+00:00'
-    modified: '2026-04-05T06:58:10.290369+00:00'
-    owner: nickarrow
   Ironsworn - The Rustlands/Characters/Colrum.md:
     checksum: 62106b340efac0a7cc546a6a0fc97d656b2207a08d95eb6f9c8b8587402d428d
     created: '2026-04-13T02:32:54.667161+00:00'
@@ -70,31 +65,6 @@ files:
     created: '2026-03-22T21:33:33.496204+00:00'
     modified: '2026-03-22T21:33:33.496204+00:00'
     owner: jzoutis
-  The Daggerforged/Campaign Bob Frog/Campaign Bob Frog.md:
-    checksum: 3edb7ddc2383c20db72dbf35cc369704e2ec7aaa4a47070e180e05804cb2d65c
-    created: '2026-04-05T06:11:00.706762+00:00'
-    modified: '2026-04-05T06:11:00.706762+00:00'
-    owner: nickarrow
-  The Daggerforged/Campaign Bob Frog/Characters/Bob Frog Character Sheet.md:
-    checksum: 70936331d60ab3c3808048c99288cadab96fb805acb43acf4288291e38e80952
-    created: '2026-04-07T21:22:35.872606+00:00'
-    modified: '2026-04-11T18:46:31.731244+00:00'
-    owner: nickarrow
-  The Daggerforged/Campaign Bob Frog/Characters/Bob Frog.md:
-    checksum: 746619815f6f68f566dac718cc95b8b2cf09a8603307fa142fbcdde32c9ca3ef
-    created: '2026-04-05T06:11:00.706852+00:00'
-    modified: '2026-04-11T18:46:31.731297+00:00'
-    owner: nickarrow
-  The Daggerforged/Campaign Bob Frog/Journals/Session 0.md:
-    checksum: a94c1bdf23bceb9bb6be78dbabf4027776f3ecad3068eb319d20063bdcb90876
-    created: '2026-04-05T06:11:00.706929+00:00'
-    modified: '2026-04-05T06:11:00.706929+00:00'
-    owner: nickarrow
-  The Daggerforged/Truths.md:
-    checksum: b8d12f225891a55106d445eff1308f91266c129eae6aff0bfa641413a52dde67
-    created: '2026-04-05T06:11:00.706972+00:00'
-    modified: '2026-04-05T06:11:00.706972+00:00'
-    owner: nickarrow
   The Starforged.md:
     checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     created: '2026-02-07T03:18:07.292864+00:00'
@@ -1199,18 +1169,12 @@ folders:
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
-  Homebrew:
-    created: '2026-04-05T06:11:00.706585+00:00'
-    structural_owner: nickarrow
   Ironsworn - The Rustlands:
     created: '2026-04-13T02:52:00.833798+00:00'
     structural_owner: danten66
   Starforged Root:
     created: '2026-03-22T21:33:33.496095+00:00'
     structural_owner: jzoutis
-  The Daggerforged:
-    created: '2026-04-05T06:11:00.706714+00:00'
-    structural_owner: nickarrow
   The Starforged:
     created: '2026-01-09T03:44:17.263114+00:00'
     structural_owner: nickarrow
