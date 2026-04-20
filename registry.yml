@@ -20,6 +20,16 @@ files:
     created: '2025-12-25T20:28:31.641102+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  Excalidraw/Drawing 2026-04-19 20.27.58.excalidraw.md:
+    checksum: 10df0907069aebaa5457807423592552839882311034d194f29d9ad76a444247
+    created: '2026-04-20T04:13:49.005401+00:00'
+    modified: '2026-04-20T04:13:49.005401+00:00'
+    owner: jannythespartan
+  Excalidraw/Drawing 2026-04-19 20.28.19.excalidraw.md:
+    checksum: 10df0907069aebaa5457807423592552839882311034d194f29d9ad76a444247
+    created: '2026-04-20T04:13:49.005465+00:00'
+    modified: '2026-04-20T04:13:49.005465+00:00'
+    owner: jannythespartan
   Getting Started.md:
     checksum: 1d6a964065abc8e76605d9f9be9c7603bcddbca273907e71e3214cf38860fffd
     created: '2025-12-17T17:41:15.770317+00:00'
@@ -65,6 +75,11 @@ files:
     created: '2025-12-31T04:59:31.082903+00:00'
     modified: '2026-02-08T00:22:49.408772+00:00'
     owner: nickarrow
+  Screenshot_2026-04-19_21-09-11.png:
+    checksum: de16507ee38ca9ef07c15ea0f92ed03415ac6461053e150893ab42ec3326404e
+    created: '2026-04-20T04:13:49.005917+00:00'
+    modified: '2026-04-20T04:13:49.005917+00:00'
+    owner: jannythespartan
   Starforged Root/Barille Black/Truths.md:
     checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     created: '2026-03-22T21:33:33.496204+00:00'
@@ -1189,6 +1204,9 @@ folders:
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
+  Excalidraw:
+    created: '2026-04-20T04:13:49.005335+00:00'
+    structural_owner: jannythespartan
   Ironsworn - The Rustlands:
     created: '2026-04-13T02:52:00.833798+00:00'
     structural_owner: danten66
