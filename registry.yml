@@ -367,10 +367,10 @@ files:
     created: '2025-12-17T20:16:20.630620+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
-  The Starforged/Campaign Barille Black/Journals/Barille/06-05-2026-Wed-032300.png:
-    checksum: 38d34b35436bd551b65242ac1339de001d93472ef79cd1dea388674d9cb2b749
-    created: '2026-05-07T05:41:48.054609+00:00'
-    modified: '2026-05-07T05:41:48.054609+00:00'
+  The Starforged/Campaign Barille Black/Journals/Barille/06-05-2026-Wed-032300.pdf:
+    checksum: ef79d8440fcc59fe43aed60e0da897b4529980f47cf1c008b7e9fdf9b8f77aa0
+    created: '2026-05-07T05:55:16.165918+00:00'
+    modified: '2026-05-07T05:55:16.165918+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 01 - Beginnings.md:
     checksum: b7e90bf88ce05e124ef56f952e737a0674a0ff225a475871c420853677974414
@@ -388,9 +388,14 @@ files:
     modified: '2026-04-11T19:23:47.532781+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 04 - Name TBD.md:
-    checksum: 667b864c80afc39be2e613282838feed1c4021dbb9850fb3515841a7c2bbed6d
+    checksum: 671f13d489c48dafaa9beb3127f90ef8811654f083a9ec8626fbdf71727e32c6
     created: '2026-04-11T19:23:47.532864+00:00'
-    modified: '2026-05-07T05:41:48.054669+00:00'
+    modified: '2026-05-07T05:55:16.165983+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/Journals/Barille/text.txt:
+    checksum: ae88816dfe9c643151d8e5048692091dbe5a998adf770b8bfb68ef3c85aacd60
+    created: '2026-05-07T05:55:16.166075+00:00'
+    modified: '2026-05-07T05:55:16.166075+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Progress/Barille/Establish a new noble house in the Circle of the Elder Stars.md:
     checksum: e3d270d8e4fe2b8568fdbdc504b5c1f581a5035f14bc9158f6b5f4068feeb1a5
