@@ -30,16 +30,6 @@ files:
     created: '2025-12-17T17:41:15.770317+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
-  Ink/Writing/2026.5.8 - 1.21am.writing:
-    checksum: 279b65feb63e58f81048b3b675d75f1722b5f2e91b9044e89e2bd0d5163c18a9
-    created: '2026-05-08T07:25:32.800757+00:00'
-    modified: '2026-05-08T07:25:32.800757+00:00'
-    owner: nickarrow
-  Ink/Writing/2026.5.8 - 1.23am.writing:
-    checksum: 9624bb5e07ed306f4204ec83d07f4a4738d118a7b4098fc015d4be855f78795e
-    created: '2026-05-08T07:25:32.801023+00:00'
-    modified: '2026-05-08T07:25:32.801023+00:00'
-    owner: nickarrow
   Ironsworn - The Rustlands/Campaign - Colrum/Characters/Colrum.md:
     checksum: 73bc08ae08da45da9f28a914abf86290ad505f96d681ef02926ec3a54b2f65aa
     created: '2026-04-13T02:32:54.667161+00:00'
@@ -74,36 +64,6 @@ files:
     checksum: 1692e3eadc9beeee1dc0a90af7492ea25eefbc8ef15cf61e8d53cc439bc35c4b
     created: '2026-01-07T03:37:12.771398+00:00'
     modified: '2026-02-08T00:21:51.780339+00:00'
-    owner: nickarrow
-  Pasted image 20260508003304.png:
-    checksum: f5cd164d006a96acacb0df3e91a9d121963fb765e515393a4f5269c340d20514
-    created: '2026-05-08T07:25:32.801109+00:00'
-    modified: '2026-05-08T07:25:32.801109+00:00'
-    owner: nickarrow
-  Pasted image 20260508010102.png:
-    checksum: e57e16fbbb3f2121c43a25b6964ccceee0429ddbf168889329a4c47dbc9a0c0e
-    created: '2026-05-08T07:25:32.801350+00:00'
-    modified: '2026-05-08T07:25:32.801350+00:00'
-    owner: nickarrow
-  Pasted image 20260508010303.png:
-    checksum: b3c15135af927e602bd7fcfa1fab06488b4a4166b82a069d2443b3f98668e438
-    created: '2026-05-08T07:25:32.801607+00:00'
-    modified: '2026-05-08T07:25:32.801607+00:00'
-    owner: nickarrow
-  Pasted image 20260508010332.png:
-    checksum: bed0c10d37dfec53f4a26a3ebcc02bcde4be67e7dd7d078855f369f5b3ad9079
-    created: '2026-05-08T07:25:32.801856+00:00'
-    modified: '2026-05-08T07:25:32.801856+00:00'
-    owner: nickarrow
-  Pasted image 20260508010552.png:
-    checksum: 6c823160f2eb0a12bb32d26ecfb3ffa9648d910d7f934685458696003f6dcaea
-    created: '2026-05-08T07:25:32.801960+00:00'
-    modified: '2026-05-08T07:25:32.801960+00:00'
-    owner: nickarrow
-  Pasted image 20260508011047.png:
-    checksum: c23dd5682fbf0c980617c868d05e52617cfed55173ec4e9ef19d843335d896b7
-    created: '2026-05-08T07:25:32.802021+00:00'
-    modified: '2026-05-08T07:25:32.802021+00:00'
     owner: nickarrow
   README.md:
     checksum: 29570d27aa1289ceaaf183a3516f06da3bd19ca43f03b04982573e622fd7a8ce
@@ -1318,9 +1278,6 @@ folders:
     structural_owner: fragile-entropy
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
-    structural_owner: nickarrow
-  Ink:
-    created: '2026-05-08T07:25:32.800586+00:00'
     structural_owner: nickarrow
   Ironsworn - The Rustlands:
     created: '2026-04-13T02:52:00.833798+00:00'
