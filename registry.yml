@@ -367,11 +367,6 @@ files:
     created: '2025-12-17T20:16:20.630620+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
-  The Starforged/Campaign Barille Black/Journals/Barille/06-05-2026-Wed-032300.png:
-    checksum: b9099b52313506f3687822388cb052a2916372d7fd44a15cf0c5d6a230caa867
-    created: '2026-05-08T07:25:32.802496+00:00'
-    modified: '2026-05-08T07:25:32.802496+00:00'
-    owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 01 - Beginnings.md:
     checksum: b7e90bf88ce05e124ef56f952e737a0674a0ff225a475871c420853677974414
     created: '2025-12-17T20:18:04.220298+00:00'
@@ -388,9 +383,14 @@ files:
     modified: '2026-04-11T19:23:47.532781+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 04 - Name TBD.md:
-    checksum: ceea68d6cd891e704d8e206a572ee0a7377f6a57cb7c1ec2bb1b1b7ec861365f
+    checksum: bfbe87fc49bcc682dc2aea34233ac038cfe72d1dbdade91b60bc716868e72ad2
     created: '2026-04-11T19:23:47.532864+00:00'
-    modified: '2026-05-13T03:48:50.327274+00:00'
+    modified: '2026-05-13T04:30:09.339000+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/Journals/Barille/Ink/Writing/2026.5.12 - 22.28pm.writing:
+    checksum: 720cbb16e7d229bfd43be918fee516ade477ea99e0615e292360d88be13980e7
+    created: '2026-05-13T04:30:09.339205+00:00'
+    modified: '2026-05-13T04:30:09.339205+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/text.txt:
     checksum: ae88816dfe9c643151d8e5048692091dbe5a998adf770b8bfb68ef3c85aacd60
