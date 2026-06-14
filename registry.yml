@@ -302,65 +302,10 @@ files:
     created: '2026-02-07T21:59:32.464447+00:00'
     modified: '2026-02-08T20:20:07.774959+00:00'
     owner: nickarrow
-  The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black Assets.md:
-    checksum: 30ffb2c35c123b5300d0f0abf617518f8c1824daedd52cacef7180d3c61343cd
-    created: '2026-04-28T01:32:15.597292+00:00'
-    modified: '2026-04-28T01:32:15.597292+00:00'
-    owner: nickarrow
-  The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black Bonds.md:
-    checksum: 02ac1c8ff392bdd8636df954adbdd22b635c1e4b9493a6bb6390fce58c772c07
-    created: '2026-04-28T01:32:15.597385+00:00'
-    modified: '2026-04-28T01:32:15.597385+00:00'
-    owner: nickarrow
-  The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black Character Info.md:
-    checksum: 5d1ba4bbd8222ed0425395932275077054b4c348d3da9b8c0e576fd5b4747db3
-    created: '2026-04-28T01:32:15.597445+00:00'
-    modified: '2026-04-28T01:32:15.597445+00:00'
-    owner: nickarrow
-  The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black Gear.md:
-    checksum: 7a2af514cd12d911d8bfde8df1e298f1eb3b18bf7cf418825cb78aa522decf5e
-    created: '2025-12-17T20:16:20.629124+00:00'
-    modified: '2026-04-28T02:55:20.662567+00:00'
-    owner: nickarrow
-  The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black Impacts.md:
-    checksum: 0efb7c18022159a2756443c60646a16381d13859647598a79bef270a6c360713
-    created: '2026-04-28T01:32:15.597580+00:00'
-    modified: '2026-04-28T01:32:15.597580+00:00'
-    owner: nickarrow
-  The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black Legacies.md:
-    checksum: c84c17842304fb5fe6702ecb3c69e470d02dd8c95339f7dec6df8da44c160ced
-    created: '2026-04-28T01:32:15.597628+00:00'
-    modified: '2026-04-28T01:32:15.597628+00:00'
-    owner: nickarrow
-  The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black Meters.md:
-    checksum: ff75fcadea746822d487c862d9c0e28ce055cd200047269e8e85996e630839c6
-    created: '2026-04-28T01:32:15.597671+00:00'
-    modified: '2026-04-28T01:32:15.597671+00:00'
-    owner: nickarrow
-  The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black Stats.md:
-    checksum: 2c09f3b2538fe6359f33dbad70387c2394b072f8b03f05696688627967c1971d
-    created: '2026-04-28T01:32:15.597715+00:00'
-    modified: '2026-04-28T01:32:15.597715+00:00'
-    owner: nickarrow
-  The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black Tracks Completed.md:
-    checksum: a2637c3d4c6643ad834626330acbe56fbec3df24be5359c5524114775b7201b1
-    created: '2026-04-28T01:32:15.597757+00:00'
-    modified: '2026-04-28T01:32:15.597757+00:00'
-    owner: nickarrow
-  The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black Tracks In-Progress.md:
-    checksum: a928da14701f79254d6df97d80f4148fca7f7dc1290cd9d0b703934c1099930e
-    created: '2026-04-28T01:32:15.597798+00:00'
-    modified: '2026-04-28T01:32:15.597798+00:00'
-    owner: nickarrow
   The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black.md:
     checksum: 028c1c33b1750675dc5e4efe0b9cb9034408b71c523da0382be245392aab9ea7
     created: '2025-12-17T19:59:34.705988+00:00'
     modified: '2026-05-05T07:48:33.073526+00:00'
-    owner: nickarrow
-  The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Kit.md:
-    checksum: 1d486ea8bffaaef42aba282151b13331705ede55d6df617a6190b3a6f5168c72
-    created: '2026-04-28T01:32:15.597880+00:00'
-    modified: '2026-05-23T02:31:09.265511+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Characters/Barille Black/attachments/barille black profile.png:
     checksum: 283585c27eb05c9acdcc972e3aa9c21afa873a62f1bf4710905332bd34f1a746
@@ -386,16 +331,6 @@ files:
     checksum: bfbe87fc49bcc682dc2aea34233ac038cfe72d1dbdade91b60bc716868e72ad2
     created: '2026-04-11T19:23:47.532864+00:00'
     modified: '2026-05-13T04:30:09.339000+00:00'
-    owner: nickarrow
-  The Starforged/Campaign Barille Black/Journals/Barille/Ink/Writing/2026.5.12 - 22.28pm.writing:
-    checksum: 720cbb16e7d229bfd43be918fee516ade477ea99e0615e292360d88be13980e7
-    created: '2026-05-13T04:30:09.339205+00:00'
-    modified: '2026-05-13T04:30:09.339205+00:00'
-    owner: nickarrow
-  The Starforged/Campaign Barille Black/Journals/Barille/text.txt:
-    checksum: ae88816dfe9c643151d8e5048692091dbe5a998adf770b8bfb68ef3c85aacd60
-    created: '2026-05-07T05:55:16.166075+00:00'
-    modified: '2026-05-07T05:55:16.166075+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/scene-framing-v11.md:
     checksum: 40f83e458a6d09ab427f56b8a7b1392e0dc16f3773c6abd00a549b927c2bd6a0
