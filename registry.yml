@@ -15,6 +15,11 @@ files:
     created: '2026-04-29T16:59:53.847895+00:00'
     modified: '2026-04-29T16:59:53.847895+00:00'
     owner: jeanne-jammer
+  Congregation of Ethereal Paladins.md:
+    checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    created: '2026-06-16T05:47:45.080614+00:00'
+    modified: '2026-06-16T05:47:45.080614+00:00'
+    owner: jannythespartan
   Epistolary Framework/Epistolary Guide.md:
     checksum: f809203ede6f619383215d5d40db855d6712f6417f753fb6f79b7957f3a8958e
     created: '2025-12-25T20:28:31.641056+00:00'
@@ -1013,9 +1018,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Factions/The Congregation of Ethereal Paladins.md:
-    checksum: 2b50ea3a46b78aa4db5df6ee08059e0741396f399e244cc0f8aeecacbb3a6d13
+    checksum: b0b55925ac3b4ce4d92a613edf1eb526fd2c15af79b48da0c12752eded0f9575
     created: '2026-04-20T02:27:19.335262+00:00'
-    modified: '2026-04-20T23:46:16.596784+00:00'
+    modified: '2026-06-16T05:47:45.080672+00:00'
     owner: jannythespartan
   The Starforged/Factions/The Void Cobras.md:
     checksum: 5b89122b8c81c06e561b9e31af4b138cb34f01f28e7cd1a57d79b187c694c4aa
@@ -1072,6 +1077,11 @@ files:
     created: '2026-02-09T05:32:01.138930+00:00'
     modified: '2026-02-14T13:01:28.252205+00:00'
     owner: thathulsguy
+  The Starforged/Locations/Planets/Rosston.md:
+    checksum: 5e9ee5280069f6c60fa5d8c7a01b26891be04437ac552a89ef3083512d6727f1
+    created: '2026-06-16T05:47:45.080747+00:00'
+    modified: '2026-06-16T05:47:45.080747+00:00'
+    owner: jannythespartan
   The Starforged/Locations/Planets/Taraxus.md:
     checksum: 44df0b200627a9136df43b496c524842fd211903f4fb8dd365568bfe6257d866
     created: '2026-06-16T01:00:06.900965+00:00'
