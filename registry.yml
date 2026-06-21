@@ -25,6 +25,11 @@ files:
     created: '2025-12-25T20:28:31.641102+00:00'
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
+  Excalidraw/Drawing 2026-06-20 22.41.41.excalidraw.md:
+    checksum: af902d8eec11a212af21333957aeece08febdf5ad5fdac4992de4fba75291a9b
+    created: '2026-06-21T05:59:00.503010+00:00'
+    modified: '2026-06-21T05:59:00.503010+00:00'
+    owner: jannythespartan
   Getting Started.md:
     checksum: 1d6a964065abc8e76605d9f9be9c7603bcddbca273907e71e3214cf38860fffd
     created: '2025-12-17T17:41:15.770317+00:00'
@@ -65,6 +70,21 @@ files:
     created: '2026-01-07T03:37:12.771398+00:00'
     modified: '2026-02-08T00:21:51.780339+00:00'
     owner: nickarrow
+  Project (20260620085102).jpg:
+    checksum: 8c8aa4f7efddf14c2372a8e2b53b5b7cf3091e47efc0285cb9ffc70da94833c3
+    created: '2026-06-21T05:59:00.504092+00:00'
+    modified: '2026-06-21T05:59:00.504092+00:00'
+    owner: jannythespartan
+  Project (20260620091437).jpg:
+    checksum: be9e81bffebabeb55b0f74f079950ab766597faa7d59d79f385a6022db1cfae0
+    created: '2026-06-21T05:59:00.505459+00:00'
+    modified: '2026-06-21T05:59:00.505459+00:00'
+    owner: jannythespartan
+  Project (20260620105200).jpg:
+    checksum: b7b41515ac176479fc1623f0dcae0a915a631de511207f48a9416f352f521bc2
+    created: '2026-06-21T05:59:00.505591+00:00'
+    modified: '2026-06-21T05:59:00.505591+00:00'
+    owner: jannythespartan
   README.md:
     checksum: 29570d27aa1289ceaaf183a3516f06da3bd19ca43f03b04982573e622fd7a8ce
     created: '2025-12-31T04:59:31.082903+00:00'
@@ -1023,9 +1043,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Factions/The Congregation of Ethereal Paladins.md:
-    checksum: 91b53cf2f6e667800108207fb89913ca05cfea8abff5090b87b6725bbd5dd515
+    checksum: 53f1daf9d20cc2ebd1b9f9d910712bd1a41cfd909185aab54895be3e11feaacd
     created: '2026-04-20T02:27:19.335262+00:00'
-    modified: '2026-06-20T13:47:17.484896+00:00'
+    modified: '2026-06-21T05:59:00.505639+00:00'
     owner: jannythespartan
   The Starforged/Factions/The Serene Order.md:
     checksum: 06dae787c499703503514abfc408b7b952160a1bb02addd80764ddef43d50ae4
@@ -1379,6 +1399,9 @@ folders:
   Epistolary Framework:
     created: '2025-12-25T20:28:31.641056+00:00'
     structural_owner: nickarrow
+  Excalidraw:
+    created: '2026-06-21T05:59:00.502899+00:00'
+    structural_owner: jannythespartan
   Ironsworn - The Rustlands:
     created: '2026-04-13T02:52:00.833798+00:00'
     structural_owner: danten66
