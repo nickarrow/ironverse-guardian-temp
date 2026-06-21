@@ -328,9 +328,9 @@ files:
     modified: '2026-02-08T20:20:07.774959+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Characters/Barille Black/Barille Black.md:
-    checksum: 159be2ffa451c629684d4b8bf67ed237889daa35510707d233b9030d9a2b0486
+    checksum: db501fc53d44699ffb13285c635254928ab7cb9de3e14c0843982b1b88405d0b
     created: '2025-12-17T19:59:34.705988+00:00'
-    modified: '2026-06-21T20:26:11.912746+00:00'
+    modified: '2026-06-21T20:29:59.248724+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Characters/Barille Black/attachments/barille black profile.png:
     checksum: 283585c27eb05c9acdcc972e3aa9c21afa873a62f1bf4710905332bd34f1a746
@@ -353,14 +353,19 @@ files:
     modified: '2026-04-11T19:47:01.150267+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/Barille/Barille 03 - Searching Through Reck.md:
-    checksum: 9c27d4b9d02884cdb6b3c5f16e9ab61bca587401bdceea391c4ad8193a7e2527
+    checksum: 54f0f4b530e3bc25bcbc12b41c87b82936ac2577608c9cbc2716861f31a1417a
     created: '2026-02-07T22:15:39.913915+00:00'
-    modified: '2026-04-11T19:23:47.532781+00:00'
+    modified: '2026-06-21T20:29:59.248781+00:00'
     owner: nickarrow
-  The Starforged/Campaign Barille Black/Journals/Barille/Barille 04 - Name TBD.md:
-    checksum: 6cce911b29d0b55d65bc5a5679732e78d9879ffd1b6833827c002ec4b06b84be
+  The Starforged/Campaign Barille Black/Journals/Barille/Barille 04 - Hollodo is taken.md:
+    checksum: 6ba8a6213d62ea722b9297ea15d396c9bb55ae9dcf697c3746fca82a1351c5b6
     created: '2026-04-11T19:23:47.532864+00:00'
-    modified: '2026-06-21T20:28:23.523221+00:00'
+    modified: '2026-06-21T20:29:59.248940+00:00'
+    owner: nickarrow
+  The Starforged/Campaign Barille Black/Journals/Barille/Barille 05 - name tbd.md:
+    checksum: bcea86a1db1bec4e514f9f2221430bb9d0db8500e7da0f5bb416b44a622cd062
+    created: '2026-06-21T20:29:59.249009+00:00'
+    modified: '2026-06-21T20:29:59.249009+00:00'
     owner: nickarrow
   The Starforged/Campaign Barille Black/Journals/scene-framing-v11.md:
     checksum: 507c34f6ef8f1bd569576a98b9bd50e705fbbc06414e3c491c0b2b0ff00a6e1c
