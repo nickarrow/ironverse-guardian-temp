@@ -753,9 +753,9 @@ files:
     modified: '2026-06-16T22:59:28.093832+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Journals/Captain's Log 2 - Heavy Metal.md:
-    checksum: 26ec44069dcf0a4981225752aa8a68e404ad41a602b9d79af37a07c85ad6dc49
+    checksum: a5a668a8f3a0beb237bd8609fb5ccd4a518fd5fcf8b4b41c48147b9746a9fe12
     created: '2026-06-16T22:59:28.093973+00:00'
-    modified: '2026-06-25T15:42:56.603538+00:00'
+    modified: '2026-06-27T02:14:15.139562+00:00'
     owner: alargefallinganvil
   The Starforged/Campaign Julius Gamble/Lore/The Silver Rose.md:
     checksum: 24739c466def8a5f9562c43908eb6f4acaf0b05f689f41507c17c639b05db2cb
@@ -1148,9 +1148,14 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Locations/Sectors/Gorrick.md:
-    checksum: a689e4640399f114892e2e84bd6447bb45d414c0bc6fd497562186f31b72269b
+    checksum: 6da2e41799b679b096659c8a7d96243dd1f7012a34ddb2c99811d1c73d001dc2
     created: '2026-06-16T17:25:22.048328+00:00'
-    modified: '2026-06-16T17:25:22.048328+00:00'
+    modified: '2026-06-27T02:14:15.139605+00:00'
+    owner: alargefallinganvil
+  The Starforged/Locations/Sectors/attachments/Gorrick-sector-map.png:
+    checksum: 1289094d907ce90e4335b6991c33af05b79e823fcfc28dda53747da4a10eee4b
+    created: '2026-06-27T02:14:15.141051+00:00'
+    modified: '2026-06-27T02:14:15.141051+00:00'
     owner: alargefallinganvil
   The Starforged/Locations/Sectors/attachments/ackriss-system.svg:
     checksum: 7c4dae219e5acee5e48b7c31320f0c9ee3c35af899587c83d9773bea38475dbf
