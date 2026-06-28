@@ -30,6 +30,21 @@ files:
     created: '2026-06-21T06:09:54.363226+00:00'
     modified: '2026-06-21T06:09:54.363226+00:00'
     owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Journals/00 Outpost.md"':
+    checksum: ''
+    created: '2026-06-28T02:53:03.535681+00:00'
+    modified: '2026-06-28T02:53:03.535681+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Journals/01 Assignment.md"':
+    checksum: ''
+    created: '2026-06-28T02:53:03.535785+00:00'
+    modified: '2026-06-28T02:53:03.535785+00:00'
+    owner: jannythespartan
+  '"The Starforged/Campaign Arana \342\200\230Chip\342\200\231 Haydar/Journals/02 Trust.md"':
+    checksum: ''
+    created: '2026-06-28T02:53:03.535859+00:00'
+    modified: '2026-06-28T02:53:03.535859+00:00'
+    owner: jannythespartan
   '"The Starforged/Campaign Sable Rowe/Journals/Sable 02 - Meeting Merrick and Tracking Branta\342\200\231s.md"':
     checksum: ''
     created: '2026-02-06T01:00:29.611118+00:00'
@@ -1058,9 +1073,9 @@ files:
     modified: '2026-02-07T22:21:52.606000+00:00'
     owner: nickarrow
   The Starforged/Factions/The Congregation of Ethereal Paladins.md:
-    checksum: c726cbf32689e0b26805182d72638cb512c48db00abb1d5cf803f57360cfa818
+    checksum: cb5accabea787aad2cb80fc1c4bb4077be582a65cdbbfc82d2efb1e13e61c4c9
     created: '2026-04-20T02:27:19.335262+00:00'
-    modified: '2026-06-21T13:24:21.763477+00:00'
+    modified: '2026-06-28T02:53:03.535926+00:00'
     owner: jannythespartan
   The Starforged/Factions/The Serene Order.md:
     checksum: 64cb7260b212dfb75da21225bf4346e91cd7ec0df38901153b92af82358d2066
@@ -1128,9 +1143,9 @@ files:
     modified: '2026-02-14T13:01:28.252205+00:00'
     owner: thathulsguy
   The Starforged/Locations/Planets/Rosston.md:
-    checksum: 5e9ee5280069f6c60fa5d8c7a01b26891be04437ac552a89ef3083512d6727f1
+    checksum: b31e7cf3daf5ff3a3a7a86491a9b7c41535404c36d5ab5c1f5170e2dd58a53e6
     created: '2026-06-16T05:47:45.080747+00:00'
-    modified: '2026-06-16T05:47:45.080747+00:00'
+    modified: '2026-06-28T02:53:03.535967+00:00'
     owner: jannythespartan
   The Starforged/Locations/Planets/Taraxus.md:
     checksum: a3f54fc851e09b7cbb3710fccf412995822fc820181af3b91b5b6b2cb4646454
@@ -1278,9 +1293,9 @@ files:
     modified: '2026-06-21T00:21:56.910995+00:00'
     owner: jannythespartan
   The Starforged/NPCs/Arana's Characters of Minor Note/Paladin Janya Bridger.md:
-    checksum: 2a7bd2f90ce153d88617f9f63ef389da1da4e976477e106cfc1a661d680ac216
+    checksum: e53a113910ea78eedf15528329c07f61d954269e12eeb865cc088a94ae89675c
     created: '2026-06-17T12:50:23.045297+00:00'
-    modified: '2026-06-27T03:26:37.681917+00:00'
+    modified: '2026-06-28T02:53:03.536009+00:00'
     owner: jannythespartan
   The Starforged/NPCs/Arana's Characters of Minor Note/Tomiko.md:
     checksum: 3bee9b7ea47ce6213378e7ec0007357358fbd0e78be798bdaabcf505d3ebe4c2
